@@ -1,0 +1,16 @@
+C:\dev\c#\neuron\neuron\bin\Debug\net5.0\neuron.exe
+C:\dev\c#\neuron\neuron\bin\Debug\net5.0\neuron.deps.json
+C:\dev\c#\neuron\neuron\bin\Debug\net5.0\neuron.runtimeconfig.json
+C:\dev\c#\neuron\neuron\bin\Debug\net5.0\neuron.runtimeconfig.dev.json
+C:\dev\c#\neuron\neuron\bin\Debug\net5.0\neuron.dll
+C:\dev\c#\neuron\neuron\bin\Debug\net5.0\ref\neuron.dll
+C:\dev\c#\neuron\neuron\bin\Debug\net5.0\neuron.pdb
+C:\dev\c#\neuron\neuron\obj\Debug\net5.0\neuron.csproj.AssemblyReference.cache
+C:\dev\c#\neuron\neuron\obj\Debug\net5.0\neuron.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\c#\neuron\neuron\obj\Debug\net5.0\neuron.AssemblyInfoInputs.cache
+C:\dev\c#\neuron\neuron\obj\Debug\net5.0\neuron.AssemblyInfo.cs
+C:\dev\c#\neuron\neuron\obj\Debug\net5.0\neuron.csproj.CoreCompileInputs.cache
+C:\dev\c#\neuron\neuron\obj\Debug\net5.0\neuron.dll
+C:\dev\c#\neuron\neuron\obj\Debug\net5.0\ref\neuron.dll
+C:\dev\c#\neuron\neuron\obj\Debug\net5.0\neuron.pdb
+C:\dev\c#\neuron\neuron\obj\Debug\net5.0\neuron.genruntimeconfig.cache
