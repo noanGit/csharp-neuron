@@ -4,7 +4,7 @@ namespace neuron
 {
     class Neuron
     {
-        private float weight = 0.5f;
+        private float weight = 0f;
         private float smooth = 0.00001f;
         public bool learnt = false;
 
@@ -43,6 +43,8 @@ namespace neuron
                 if (i % 1000 == 0)
                 {
                     Console.WriteLine($"Iteration: {i}");
+                    neuron.Calculate(km);
+                    Console.WriteLine("@@@@@@@@@@");
                 }
             }
 
